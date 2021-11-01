@@ -9,5 +9,5 @@ DECLARE avg_del_chg varchar(20);
         SET output_str = concat('The Average Delivery Charge is ', avg_del_chg);
 END //
 DELIMITER ;
-call average_delivery_charge(@output_str);
+call average_delivery_charge(2,@output_str);
 select @output_str;
