@@ -9,5 +9,4 @@ CREATE TABLE IF NOT EXISTS `campus_eats_fall2020`.`order_rating` (
   INDEX `order_id_idx` (`order_id` ASC) VISIBLE,
   CONSTRAINT `order_id`
     FOREIGN KEY (`order_id`)
-    REFERENCES `campus_eats_fall2020`.`order` (`order_id`))
-ENGINE = InnoDBorder_rating
+    REFERENCES `campus_eats_fall2020`.`order` (`order_id`)) ENGINE = InnoDB
