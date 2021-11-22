@@ -7,7 +7,7 @@
 4) Manswini Ragamouni 801217775
 
 # AIM of the project
-Out Aim is to understand a test database for a campus controlled food delivery service similar to craveoncampus.com and to enhance the database with a rating system for both restaurants and delivery drivers. This is extending a prototype for the database not a fully implemented working model. We will be designing  and adding tables to include a rating system.
+Our Aim is to understand a test database for a campus controlled food delivery service similar to craveoncampus.com and to enhance the database with a rating system for both restaurants and delivery drivers. This is extending a prototype for the database not a fully implemented working model. We will be designing  and adding tables to include a rating system.
 
 # Project Overview:
 
