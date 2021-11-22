@@ -3,8 +3,11 @@
 
 # Team Members
 Jyosthna Gandhodi- 801254449
+
 Sree Gauthami Gundaram- 801257596 
+
 Aparna Reddy Pothula- 801203669
+
 Manswini Ragamouni- 801217775
 
 # Introduction: Project Overview:
@@ -24,6 +27,7 @@ Each restaurant food can have many rating.
 # EERD:
 
 EERD for original campus eats DB(Version 1): https://github.com/manaswini1920/Database_Systems_project/blob/main/deliverable-1/EERD_GROUP14.drawio.png
+
 EERD for modified campus eats DB(Version 2): https://github.com/manaswini1920/Database_Systems_project/blob/main/deliverable-2/EERD-Del2.mwb
 
 # Data Dictionary:
