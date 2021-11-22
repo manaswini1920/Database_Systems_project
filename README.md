@@ -1,12 +1,12 @@
 # Database_Systems_project
 
 # Team Members
-Jyosthna Gandhodi 801254449
-Sree Gauthami Gundaram 801257596
-Aparna Reddy Pothula 801203669
-Manswini Ragamouni 801217775
+1) Jyosthna Gandhodi 801254449 
+2) Sree Gauthami Gundaram 801257596
+3) Aparna Reddy Pothula 801203669
+4) Manswini Ragamouni 801217775
 
-#AIM of the project
+# AIM of the project
 Out Aim is to understand a test database for a campus controlled food delivery service similar to craveoncampus.com and to enhance the database with a rating system for both restaurants and delivery drivers. This is extending a prototype for the database not a fully implemented working model. We will be designing  and adding tables to include a rating system.
 
 # Project Overview:
@@ -16,7 +16,7 @@ Food delivery systems have become a crucial part of our daily lives. For univers
 # Database Description
 ![image](https://user-images.githubusercontent.com/40575189/142790191-fcd15d2a-c934-4fd6-82b5-3764ee9a5db9.png)
 
-#Business Rules
+# Business Rules
 1) Valid type for end-users include: student, faculty, staff
 2) Only students can be drivers
 3) A person can order food from one to many times
