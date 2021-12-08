@@ -1,0 +1,17 @@
+insert into `order_rating` values(1, 3, 3.5, 4, 'Food is so good','https://www.pexels.com/photo/flat-lay-photography-of-vegetable-salad-on-plate-1640777/'),
+(2, 5, 4, 2.5, 'Food is delicious','https://www.pexels.com/photo/flat-lay-photography-of-vegetable-salad-on-plate-1640777/'),
+(3, 7, 1.5, 4,'Food can be better','https://www.pexels.com/photo/flat-lay-photography-of-vegetable-salad-on-plate-1640777/'),
+(4, 9, 3, 1.5, 'Food is delivered too late','https://www.pexels.com/photo/flat-lay-photography-of-vegetable-salad-on-plate-1640777/'),
+(6, 2, 3, 4, 'Food is so good','https://www.pexels.com/photo/flat-lay-photography-of-vegetable-salad-on-plate-1640777/'),
+(7, 2, 4, 2, 'Food is delicious','https://www.pexels.com/photo/flat-lay-photography-of-vegetable-salad-on-plate-1640777/'),
+(8, 2, 1, 4,'Food can be better','https://www.pexels.com/photo/flat-lay-photography-of-vegetable-salad-on-plate-1640777/'),
+(9, 2, 3, 2, 'Food is delivered too late','https://www.pexels.com/photo/flat-lay-photography-of-vegetable-salad-on-plate-1640777/'),
+(10, 4, 4, 4, 'Food is so good','https://www.pexels.com/photo/flat-lay-photography-of-vegetable-salad-on-plate-1640777/'),
+(11, 4, 5, 2, 'Food is delicious','https://www.pexels.com/photo/flat-lay-photography-of-vegetable-salad-on-plate-1640777/'),
+(12, 4, 2, 4,'Food can be better','https://www.pexels.com/photo/flat-lay-photography-of-vegetable-salad-on-plate-1640777/'),
+(13, 4, 3, 1, 'Food is delivered too late','https://www.pexels.com/photo/flat-lay-photography-of-vegetable-salad-on-plate-1640777/'),
+(14, 5, 4, 4, 'Food is so good','https://www.pexels.com/photo/flat-lay-photography-of-vegetable-salad-on-plate-1640777/'),
+(15, 4, 4, 5, 'Food is delicious','https://www.pexels.com/photo/flat-lay-photography-of-vegetable-salad-on-plate-1640777/'),
+(16, 3, 1, 3,'Food can be better','https://www.pexels.com/photo/flat-lay-photography-of-vegetable-salad-on-plate-1640777/'),
+(17, 4, 3, 1, 'Food is delivered too late','https://www.pexels.com/photo/flat-lay-photography-of-vegetable-salad-on-plate-1640777/');
+

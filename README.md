@@ -44,5 +44,6 @@ https://github.com/manaswini1920/Database_Systems_project/blob/main/deliverable-
 
 https://github.com/manaswini1920/Database_Systems_project/tree/main/deliverable-2/new_tables_sql_scripts_del2
 
-
+# Future Work
+This can be extended with a functionality of providing offers, coupons
 
