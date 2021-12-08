@@ -1,3 +1,4 @@
+DROP TABLE IF EXISTS `order_rating`;
 CREATE TABLE IF NOT EXISTS `campus_eats_fall2020`.`order_rating` (
   `id` INT NOT NULL,
   `order_id` INT NOT NULL,
@@ -6,7 +7,8 @@ CREATE TABLE IF NOT EXISTS `campus_eats_fall2020`.`order_rating` (
   `comments` VARCHAR(200) NULL,
   `picture` VARCHAR(100) NULL,
   PRIMARY KEY (`id`),
-  INDEX `order_id_idx` (`order_id` ASC) VISIBLE,
+  INDEX `order_id_idx` (`order_id` ASC),
   CONSTRAINT `order_id`
     FOREIGN KEY (`order_id`)
-    REFERENCES `campus_eats_fall2020`.`order` (`order_id`)) ENGINE = InnoDB
+    REFERENCES `campus_eats_fall2020`.`order` (`order_id`))
+ENGINE = InnoDB AUTO_INCREMENT=102 DEFAULT CHARSET=latin1;
