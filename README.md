@@ -42,7 +42,7 @@ EERD Deliverable 3 : https://github.com/manaswini1920/Database_Systems_project/t
 
 https://github.com/manaswini1920/Database_Systems_project/blob/main/deliverable-1/DATA_DICTIONARY.xlsx
 
-Deliverable 3 : https://github.com/manaswini1920/Database_Systems_project/tree/main/deliverable-3/Sql%20scripts/Data%20Dictionary
+Deliverable 3 Updated Data Dictionary: https://github.com/manaswini1920/Database_Systems_project/tree/main/deliverable-3/Sql%20scripts/Data%20Dictionary
 
 
 # SQL Codes:
