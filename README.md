@@ -36,13 +36,20 @@ EERD for original campus eats DB(Version 1): https://github.com/manaswini1920/Da
 
 EERD for modified campus eats DB(Version 2): https://github.com/manaswini1920/Database_Systems_project/blob/main/deliverable-2/EERD-Del2.mwb
 
+EERD Deliverable 3 : https://github.com/manaswini1920/Database_Systems_project/tree/main/deliverable-3/Sql%20scripts/Final_EERD
+
 # Data Dictionary:
 
 https://github.com/manaswini1920/Database_Systems_project/blob/main/deliverable-1/DATA_DICTIONARY.xlsx
 
+Deliverable 3 : https://github.com/manaswini1920/Database_Systems_project/tree/main/deliverable-3/Sql%20scripts/Data%20Dictionary
+
+
 # SQL Codes:
 
 https://github.com/manaswini1920/Database_Systems_project/tree/main/deliverable-2/new_tables_sql_scripts_del2
+
+Deliverable 3 : https://github.com/manaswini1920/Database_Systems_project/tree/main/deliverable-3/Sql%20scripts
 
 # Future Work
 This can be extended with a functionality of providing offers, coupons
